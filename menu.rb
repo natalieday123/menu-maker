@@ -14,7 +14,8 @@ choice = gets.chomp
       puts "Thank you!"
       puts "#{choice}".upcase
     elsif answer == "No"
-  #end
+      end
+  end
 
         puts "What would you like?"
         if choirce == "Chicken Tenders" or choice == "2"
@@ -25,7 +26,8 @@ choice = gets.chomp
             puts "#{choice}".upcase
 
           elsif answer == "No"
-        #end
+          end
+        end
 
           puts "What would you like?"
            if choice == "Turkey Melt" or choice == "3"
@@ -35,7 +37,8 @@ choice = gets.chomp
              puts "Thank you!"
              puts "#{choice}".upcase
             elsif answer == "No"
-          #end
+            end
+          end
 
             puts "What would you like?"
               if choice == "Garden Burger" or choice == "4"
@@ -45,7 +48,8 @@ choice = gets.chomp
                   puts "Thank you!"
                   puts "#{choice}".upcase
                 elsif answer == "No"
-            #end
+                end
+              end
 
                 puts "What would you like?"
                  if choice == "Side of Fries" or choice == "5"
@@ -55,5 +59,5 @@ choice = gets.chomp
                       puts "Thank you!"
                      puts "#{choice}".upcase
                    elsif answer == "No"
-                end
-  end
+                   end
+                 end
