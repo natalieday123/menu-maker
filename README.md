@@ -24,12 +24,12 @@ Your program **must** have the following:
 ### Take it further
 If you finish the above requirements (which you must do at a minimum), give these additional challenges (each worth multiple points) a try:
 - [ ] Allow the user to enter the order number OR the order name 
-* *e.g. "1" or "double double with fries and a soft drink")*
+  * *e.g. "1" or "double double with fries and a soft drink")*
 - [ ] Ask the user if they would like a side with their order each time, and give them a choice of sides
 - [ ] Allow the user to order multiple items 
-* Challenge: add a price to those items and tell them the price
+  * Challenge: add a price to those items and tell them the price
 - [ ] When you thank the user, pick from a variety of options
-* *e.g. "Thanks for your order" or "Have a wonderful day" or have a snarky waiter...*
+  * *e.g. "Thanks for your order" or "Have a wonderful day" or have a snarky waiter...*
 
 
 
