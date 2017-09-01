@@ -1,5 +1,5 @@
 # Advanced Topics Lab: Menu Maker
-
+![Alt text](https://media.giphy.com/media/o9hzIlJ4ijpAs/giphy.gif "Optional title")
 ## Introduction
 For this project you will be creating a simulation of a menu at a (fast food) restaurant. For example, the menu might consist of: 
 
