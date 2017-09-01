@@ -1,4 +1,4 @@
-# menu-maker
+# Advanced Topics Lab: Menu Maker
 
 ## Introduction
 For this project you will be creating a simulation of a menu at a (fast food) restaurant. For example, the menu might consist of: 
@@ -31,5 +31,5 @@ If you finish the above requirements (which you must do at a minimum), give thes
 - [ ] When you thank the user, pick from a variety of options
   * *e.g. "Thanks for your order" or "Have a wonderful day" or have a snarky waiter...*
 
-
+Good luck :+1:
 
