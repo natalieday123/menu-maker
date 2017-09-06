@@ -18,7 +18,8 @@ choice = gets.chomp
   end
 
         puts "What would you like?"
-        if choirce == "Chicken Tenders" or choice == "2"
+        choice = gets.chomp
+        if choice == "Chicken Tenders" or choice == "2"
           puts "You ordered Chicken Tenders, is that correct?"
           answer = gets.chomp
           if answer == "Yes"
@@ -30,6 +31,7 @@ choice = gets.chomp
         end
 
           puts "What would you like?"
+          choice = gets.chomp
            if choice == "Turkey Melt" or choice == "3"
              puts "You ordered the Turkey Melt, is that correct?"
              answer = gets.chomp
@@ -41,6 +43,7 @@ choice = gets.chomp
           end
 
             puts "What would you like?"
+            choice = gets.chomp
               if choice == "Garden Burger" or choice == "4"
                puts "You ordered the Garden Burger, is that correct?"
                 answer = gets.chomp
@@ -52,6 +55,7 @@ choice = gets.chomp
               end
 
                 puts "What would you like?"
+                choice = gets.chomp
                  if choice == "Side of Fries" or choice == "5"
                     puts "You ordered a Side of Fries, is that correct?"
                    answer = gets.chomp
